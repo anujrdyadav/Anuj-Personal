@@ -1,0 +1,24 @@
+* {
+    margin: 0 px;
+    padding: 0 px;
+}
+
+.container {
+    background-color: rgba(48, 47, 47, 0.911);
+    color: aliceblue;
+    width: 500px;
+    border: 3px solid rgb(111, 112, 111);
+    padding: 50px;
+    margin: 20px;
+}
+
+.heading{
+    text-align: center; 
+}
+.para1{
+    text-align: center;
+}
+.para2{
+    text-align: center;
+    padding-bottom: px;
+}
